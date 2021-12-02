@@ -1,0 +1,8 @@
+Andrii,4
+Kolya,4
+Vadim,4
+Roma,3
+Nastya,2
+Ellav,1
+Karina,5
+Masha,4

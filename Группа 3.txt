@@ -1,0 +1,7 @@
+Nzar,4
+Vlad,3
+Dima,5
+Vika,3
+Emma,4
+Nika,1
+Yaroslav,2
